@@ -10,6 +10,13 @@ const friends = [
     { id: 1, name: 'Shaun' },
     { id: 2, name: 'Megan' },
     { id: 3, name: 'Pere' },
+    { id: 4, name: 'Ifiok' },
+    { id: 5, name: 'Amira' },
+    { id: 6, name: 'Oluwafemi' },
+    { id: 7, name: 'Dom' },
+    { id: 8, name: 'Martins' },
+    { id: 9, name: 'Francis' },
+    { id: 10, name: 'Evans' },
 ];
 
 app.use(express.static(__dirname + '/client/build'))
